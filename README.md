@@ -14,6 +14,10 @@ The following are the **functionalities** of the app:
 ## API used
 **https://api.rootnet.in/covid19-in/stats/latest**
 
+## Screenshots
+Here are some screenshots of the application.
+![screenshot](https://user-images.githubusercontent.com/69778583/151161315-abc8bed2-8dd5-42c3-934c-b8700c0b7f3b.jpeg)
+
 ## License
 
     Copyright [2022] [Vishal Singh]
